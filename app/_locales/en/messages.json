@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "no autoplay yahoo",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "no autoplay yahoo",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Video on yahoo news will be autoplayed, this extension try to stop autoplay",
+    "description": "The description of the application"
+  }
+}
