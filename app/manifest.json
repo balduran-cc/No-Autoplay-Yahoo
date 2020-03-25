@@ -2,9 +2,9 @@
   "name": "__MSG_appName__",
   "short_name": "__MSG_appShortName__",
   "description": "__MSG_appDescription__",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "manifest_version": 2,
-  "default_locale": "en",
+  "default_locale": "zh_TW",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png"
@@ -31,8 +31,7 @@
     }
   ],
   "permissions": [
-    "activeTab",
-    "https://tw.news.yahoo.com/",
+    "https://tw.news.yahoo.com/*",
     "https://tw.yahoo.com/*"
   ]
 }
